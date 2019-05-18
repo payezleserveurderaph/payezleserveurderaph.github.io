@@ -1,3 +1,2 @@
-```
-Allez vous faire foutre
-- Un gars au pif
+> Allez vous faire foutre
+> - Un gars au pif
